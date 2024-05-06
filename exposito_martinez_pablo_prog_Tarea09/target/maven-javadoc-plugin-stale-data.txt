@@ -1,0 +1,48 @@
+@options
+@packages
+-classpath
+'C:/Users/pablo/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/pablo/OneDrive/Documentos/NetBeansProjects/exposito_martinez_pablo_prog_Tarea09/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/pablo/OneDrive/Documentos/NetBeansProjects/exposito_martinez_pablo_prog_Tarea09/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'exposito_martinez_pablo_prog_Tarea09 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'exposito_martinez_pablo_prog_Tarea09 1.0-SNAPSHOT API'
+com.mycompany.exposito_martinez_pablo_prog_tarea09
+C:\Users\pablo\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar = 1713868239346
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\src\main\java = 1713868181587
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\allclasses-index.html = 1714988025083
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\allpackages-index.html = 1714988025087
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\copy.svg = 1714988025147
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\element-list = 1714988024953
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\help-doc.html = 1714988025139
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\index-all.html = 1714988025125
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\index.html = 1714988025132
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\member-search-index.js = 1714988025094
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\module-search-index.js = 1714988025088
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\overview-tree.html = 1714988025054
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\package-search-index.js = 1714988025090
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\script.js = 1714988025146
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\search-page.js = 1714988025153
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\search.html = 1714988025129
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\search.js = 1714988025151
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\serialized-form.html = 1714988024985
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\stylesheet.css = 1714988025143
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\tag-search-index.js = 1714988025096
+C:\Users\pablo\OneDrive\Documentos\NetBeansProjects\exposito_martinez_pablo_prog_Tarea09\target\site\apidocs\type-search-index.js = 1714988025092
